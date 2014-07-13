@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\EnemyLogic.js" />
      <Compile Include="Assets\MeleeSystem.js" />
+     <Compile Include="Assets\Walk.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
   <ItemGroup>
