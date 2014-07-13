@@ -47,8 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\EnemyLogic.js" />
-     <Compile Include="Assets\MeleeSystem.js" />
-     <Compile Include="Assets\Walk.js" />
+     <Compile Include="Assets\Scripts\Player\Main Camera\Melee\MeleeSystem.js" />
+     <Compile Include="Assets\Scripts\Player\Main Camera\Walk.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Cons3ssiO/Documents/FPS1/New Unity Project 1/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>

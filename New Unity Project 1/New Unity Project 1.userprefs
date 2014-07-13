@@ -1,13 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MeleeSystem.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Main Camera\Walk.js">
     <Files>
-      <File FileName="Assets\Walk.js" Line="11" Column="14" />
-      <File FileName="Assets\MeleeSystem.js" Line="17" Column="17" />
       <File FileName="Assets\EnemyLogic.js" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Main Camera\Melee\MeleeSystem.js" Line="10" Column="30" />
+      <File FileName="Assets\Scripts\Player\Main Camera\Walk.js" Line="31" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
